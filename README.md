@@ -1,4 +1,4 @@
-Readme · MD
+
 Detection of Lumbar Spondylolisthesis from X-ray Images using Deep Learning
 
 A deep learning system that detects and grades lumbar spondylolisthesis — a condition where a vertebra slips forward relative to the one below it — directly from spinal X-ray images. The pipeline uses a modified U-Net architecture for vertebral segmentation, automatically calculates the percentage of vertebral slip, and classifies the result into a standard severity grade.
